@@ -44,8 +44,6 @@ The early prototype was developed for Android with Unity game engine and feature
 <img src="doc/App_ui_1.png" height="400">
 <img src="doc/App_ui_2.png" height="400">
 
-[Link](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef)
-
 ## What comes next
 
 Additional features that could potentially be implemented:
