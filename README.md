@@ -41,8 +41,8 @@ Main features:
 
 The early prototype was developed for Android with Unity game engine and featured one full recipe. It is already available for feedback on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef).
 
-<img src="doc/App_ui_1.png" height="400">
 <img src="doc/App_ui_2.png" height="400">
+<img src="doc/App_ui_1.png" height="400">
 
 ## What comes next
 
