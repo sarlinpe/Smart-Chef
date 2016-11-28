@@ -43,7 +43,7 @@ This project won the thrid place of the Singapore Nanyang Technopreneurship Cent
 ## Credits
 
 * Software development: Alexis Pomares Pastor and Timoté Vaucher
-* Hardware development: Paul-Edouard Sarlin
+* Hardware and firmware development: Paul-Edouard Sarlin
 * Prototype design: Ignacio Albert Smet
 * Business plan and speech: Jacques Weniger
 
