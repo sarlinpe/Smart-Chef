@@ -13,7 +13,9 @@ A smartphone app guides the user through several recipes, coming from different 
 
 A small device is attached to the cooking pan or pot, and measures several parameters related to the food being cooked, such as temperature, CO2, or vibrations. This data is sent over Bluetooth to the smartphone, which analyses them, and convert them into an intuitive feedback. The device is removable and discreet, so it does not bother the user.
 
-<img src="doc/Technical_slide.jpg" width="750"/>
+<p align="center">
+	<img src="doc/Technical_slide.jpg" width="750"/>
+</p>
 
 ## Hardware Device
 
@@ -41,8 +43,10 @@ Main features:
 
 The early prototype was developed for Android with Unity game engine and featured one full recipe. It is already available for feedback on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef).
 
-<img src="doc/App_ui_2.png" height="400">
-<img src="doc/App_ui_1.png" height="400">
+<p align="center">
+	<img src="doc/App_ui_2.png" height="400">
+	<img src="doc/App_ui_1.png" height="400">
+<\p>
 
 ## What comes next
 
