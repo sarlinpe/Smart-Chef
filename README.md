@@ -46,7 +46,7 @@ The early prototype was developed for Android with Unity game engine and feature
 <p align="center">
 	<img src="doc/App_ui_2.png" height="400">
 	<img src="doc/App_ui_1.png" height="400">
-<\p>
+</p>
 
 ## What comes next
 
