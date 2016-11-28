@@ -30,12 +30,27 @@ Early prototype:
 * Bluetooth HC-05 module
 * Green, Orange and Red LEDs controlled by the smartphone
 
-## Smartphone App
+## Game App
+
+Main features:
+* Various recipes (levels), accessed from a remote database
+* Associated achievements
+* Account management and score sharing with friends
+* Real-time communication with the device
+
+The early prototype was developped with Unity Game Engine and featured one full recipe.
 
 <img src="doc/App_ui_1.png" height="400">
 <img src="doc/App_ui_2.png" height="400">
 
 [Link](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef)
+
+## What comes next
+
+Additiona features that could potentially be implemented:
+* Allow the user to rate recipes and suggest improvements, use machine learning to update the database based on the score given by many users
+* Advanced feedback to the user using fuzzy logic
+* Automatic ingredients ordering to local groceries with home delivery
 
 ## Awards
 
