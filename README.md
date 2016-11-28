@@ -32,7 +32,8 @@ Early prototype:
 
 ## Smartphone App
 
-<img src="doc/app_ui.png" height="400">
+<img src="doc/App_ui_1.png" height="400">
+<img src="doc/App_ui_2.png" height="400">
 
 [Link](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef)
 
