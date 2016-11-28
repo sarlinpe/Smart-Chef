@@ -5,7 +5,7 @@ Smart Chef is a new concept product which aims at encouraging people to cook for
 ## Motivations
 
 Cooking is healthy, culturally rewarding, and above all funny. Yet, many people don't cook and have never learnt how to, either because it is not part of their culture and they never had the opportunity to, or because they simply don't have time for it.
-As a team of cooking-lover engineers attending the Singapore Nanyang Technopreneurship Center *Startathon*, we decided to tackle this problem by developping an inovative and affordable solution: Smart Chef.
+As a team of cooking-lover engineers attending the Singapore Nanyang Technopreneurship Center *Startathon*, we decided to tackle this problem by developing an innovative and affordable solution: Smart Chef.
 
 ## Concept
 
@@ -38,7 +38,7 @@ Main features:
 * Account management and score sharing with friends
 * Real-time communication with the device
 
-The early prototype was developped with Unity Game Engine and featured one full recipe.
+The early prototype was developed with Unity Game Engine and featured one full recipe. It is already available for feedback on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef).
 
 <img src="doc/App_ui_1.png" height="400">
 <img src="doc/App_ui_2.png" height="400">
@@ -47,14 +47,14 @@ The early prototype was developped with Unity Game Engine and featured one full 
 
 ## What comes next
 
-Additiona features that could potentially be implemented:
+Additional features that could potentially be implemented:
 * Allow the user to rate recipes and suggest improvements, use machine learning to update the database based on the score given by many users
 * Advanced feedback to the user using fuzzy logic
 * Automatic ingredients ordering to local groceries with home delivery
 
 ## Awards
 
-This project won the thrid place of the Singapore Nanyang Technopreneurship Center *Startathon*, a 32-hour event focusing on idea development and implementation.
+This project won the third place of the Singapore Nanyang Technopreneurship Center *Startathon*, a 32-hour event focusing on idea development and implementation.
 
 ## Credits
 
