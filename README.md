@@ -1,6 +1,6 @@
 # Smart Chef
 
-Smart Chef is a new concept product which aims at encouraging people to cook for themselves. The system is consists in a hardware device connected to a smartphone running a game app. Here we present the hypothetical features as well as the first prototype.
+Smart Chef is a new concept product which aims at encouraging people to cook for themselves. The system consists in a hardware device connected to a smartphone running a game app. Here we present the hypothetical features as well as the first prototype.
 
 ## Motivations
 
@@ -33,12 +33,13 @@ Early prototype:
 ## Game App
 
 Main features:
-* Various recipes (levels), accessed from a remote database
-* Associated achievements
-* Account management and score sharing with friends
+* Various recipes (levels) accessed on a remote database
+* Online account management
+* Score and achievments sharing with friends
 * Real-time communication with the device
+* Feedback such as: "increase/decrease temperature", "give a stir" or "food is burning"
 
-The early prototype was developed with Unity Game Engine and featured one full recipe. It is already available for feedback on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef).
+The early prototype was developed for Android with Unity game engine and featured one full recipe. It is already available for feedback on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef).
 
 <img src="doc/App_ui_1.png" height="400">
 <img src="doc/App_ui_2.png" height="400">
