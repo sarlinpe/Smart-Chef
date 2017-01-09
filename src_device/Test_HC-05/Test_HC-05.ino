@@ -1,3 +1,18 @@
+ /***************************************************************************************
+ *
+ * Copyright (c) 2016, Paul-Edouard Sarlin
+ * All rights reserved.
+ *
+ * Title:       Smart Chef Project
+ * File:        Test_HC-05.ino
+ * Date:        2016-10-23
+ * Author:      Paul-Edouard Sarlin
+ * Website:     https://github.com/Skydes/Smart-Chef
+ *
+ * Description: Test of the HC-05 Bluetooth modul using Software Serial.
+ *
+ ***************************************************************************************/
+
 #include <SoftwareSerial.h>
 SoftwareSerial BTserial(3, 4); // RX | TX
 // Connect the HC-05 TX to Arduino pin 2 RX. 

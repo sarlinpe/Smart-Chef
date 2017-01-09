@@ -1,3 +1,18 @@
+ /***************************************************************************************
+ *
+ * Copyright (c) 2016, Paul-Edouard Sarlin
+ * All rights reserved.
+ *
+ * Title:       Smart Chef Project
+ * File:        Test_MPU-6050_raw_simple.ino
+ * Date:        2016-10-23
+ * Author:      Paul-Edouard Sarlin
+ * Website:     https://github.com/Skydes/Smart-Chef
+ *
+ * Description: Test of the MPU-6050 IMU, displaying raw values.
+ *
+ ***************************************************************************************/
+
 #include<Wire.h>
 
 const int MPU_addr = 0x68; // I2C address of the MPU-6050

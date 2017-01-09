@@ -1,3 +1,18 @@
+ /***************************************************************************************
+ *
+ * Copyright (c) 2016, Paul-Edouard Sarlin
+ * All rights reserved.
+ *
+ * Title:       Smart Chef Project
+ * File:        Test_DallasTemperature.ino
+ * Date:        2016-10-23
+ * Author:      Paul-Edouard Sarlin
+ * Website:     https://github.com/Skydes/Smart-Chef
+ *
+ * Description: Test of the Dallas Temperature sensor using the OneWire library.
+ *
+ ***************************************************************************************/
+
 #include <OneWire.h>
 #include <DallasTemperature.h>
 

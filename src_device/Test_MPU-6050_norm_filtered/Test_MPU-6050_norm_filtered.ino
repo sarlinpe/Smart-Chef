@@ -1,3 +1,19 @@
+ /***************************************************************************************
+ *
+ * Copyright (c) 2016, Paul-Edouard Sarlin
+ * All rights reserved.
+ *
+ * Title:       Smart Chef Project
+ * File:        Test_MPU-6050_norm_filtered.ino
+ * Date:        2016-10-23
+ * Author:      Paul-Edouard Sarlin
+ * Website:     https://github.com/Skydes/Smart-Chef
+ *
+ * Description: Test of the MPU-6050 IMU, displaying low-pass filtered values of the 
+ *              acceleration vector's norm.
+ *
+ ***************************************************************************************/
+
 #include<Wire.h>
 
 #define ALPHA       0.7   // filtering coefficient

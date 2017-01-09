@@ -1,4 +1,18 @@
-
+ /***************************************************************************************
+ *
+ * Copyright (c) 2016, Paul-Edouard Sarlin
+ * All rights reserved.
+ *
+ * Title:       Smart Chef Project
+ * File:        main.ino
+ * Date:        2016-10-23
+ * Author:      Paul-Edouard Sarlin
+ * Website:     https://github.com/Skydes/Smart-Chef
+ *
+ * Description: Main file for the device's firmware.
+ *
+ ***************************************************************************************/
+ 
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include <SoftwareSerial.h>
