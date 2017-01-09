@@ -1,11 +1,3 @@
-// Basic Bluetooth sketch HC-05_01
-// Sends "Bluetooth Test" to the serial monitor and the software serial once every second.
-//
-// Connect the HC-05 module and data over Bluetooth
-//
-// The HC-05 defaults to commincation mode when first powered on.
-// The default baud rate for communication is 9600
- 
 #include <SoftwareSerial.h>
 SoftwareSerial BTserial(3, 4); // RX | TX
 // Connect the HC-05 TX to Arduino pin 2 RX. 
